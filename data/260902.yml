@@ -1,0 +1,57 @@
+about:
+  description: TUI package manager for APT-based Linux distributions
+  license: MIT
+  homepage: 
+  head: 774d344
+  archived: false
+  latestVersion: v0.8.1
+  collectedAt: 2026-09-02T04:14:38Z
+timeline:
+  created: 2026-03-03
+  lastCommit: 2026-08-27
+  lastRelease: 2026-05-10
+popularity:
+  star: 416
+  watcher: 5
+  fork: 11
+  release: 12
+  contributor: 2
+  pullRequest: 23
+  issue: 49
+language:
+  Go: 531245
+  Shell: 163
+totalLine: 531408
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 1
+    openPR: 5
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last180d:
+    since: 2026-03-06
+    release: 12
+    mergedPR: 63
+    openPR: 6
+    closedIssue: 44
+    openIssue: 1
+    commit: 90
+  last360d:
+    since: 2025-09-07
+    release: 12
+    mergedPR: 65
+    openPR: 6
+    closedIssue: 48
+    openIssue: 1
+    commit: 148
