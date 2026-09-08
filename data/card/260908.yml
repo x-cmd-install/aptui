@@ -5,7 +5,7 @@ about:
   head: 774d344
   archived: false
   latestVersion: "v0.8.1"
-  collectedAt: 2026-09-08T02:38:59Z
+  collectedAt: 2026-09-08T05:04:14Z
 timeline:
   created: 2026-03-03
   lastCommit: 2026-08-27
@@ -80,7 +80,7 @@ total:
   commit: 157
 ---
 path: /home/runner/.x-repo/github.com/mexirica/aptui
-collectedAt: 2026-09-08T02:39:08Z
+collectedAt: 2026-09-08T05:04:18Z
 loc:
   Go:
     code: 17884
