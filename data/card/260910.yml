@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.1"
   latestRelease: "v0.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:07:36Z
+  collectedAt: 2026-09-10T17:18:25Z
 timeline:
   created: 2026-03-03
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-10
   lastPrerelease: 
 popularity:
-  star: 419
+  star: 420
   watcher: 5
   fork: 11
   release: 12
@@ -84,7 +84,7 @@ total:
   commit: 157
 ---
 path: /home/runner/.x-repo/github.com/mexirica/aptui
-collectedAt: 2026-09-10T05:07:40Z
+collectedAt: 2026-09-10T17:18:31Z
 loc:
   Go:
     code: 17884
