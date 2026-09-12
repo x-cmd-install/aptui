@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3547163,
       "digest": "sha256:1261b6a21778eea97dcf1e7c3170d07c4e32db0b29d1cdc4a5297ea775f7421a",
-      "download_count": 219,
+      "download_count": 220,
       "created_at": "2026-05-10T12:37:51Z",
       "updated_at": "2026-05-10T12:37:52Z",
       "browser_download_url": "https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.tar.gz"
