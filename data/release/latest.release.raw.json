@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3547163,
       "digest": "sha256:1261b6a21778eea97dcf1e7c3170d07c4e32db0b29d1cdc4a5297ea775f7421a",
-      "download_count": 220,
+      "download_count": 221,
       "created_at": "2026-05-10T12:37:51Z",
       "updated_at": "2026-05-10T12:37:52Z",
       "browser_download_url": "https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3225717,
       "digest": "sha256:f6de91ba6b6d4266bf80efc76abef68e2dda1c778a2013fb96c35944eb8463f7",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-05-10T12:37:51Z",
       "updated_at": "2026-05-10T12:37:52Z",
       "browser_download_url": "https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_arm64.tar.gz"
