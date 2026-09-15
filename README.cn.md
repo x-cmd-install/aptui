@@ -14,13 +14,13 @@ x install aptui
 
 ## 代码洞察
 
-合计: **17,889** 行代码（覆盖前 5 种语言、共 **69** 个文件）。
+合计: **18,596** 行代码（覆盖前 5 种语言、共 **71** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 17,884 | 490 | 1,886 | 61 |
+| Go | 18,591 | 497 | 1,943 | 63 |
 | Sh | 5 | 1 | 1 | 1 |
-| Markdown | 0 | 727 | 288 | 7 |
+| Markdown | 0 | 749 | 290 | 7 |
 
 ## 源代码
 
@@ -29,38 +29,38 @@ x install aptui
 
 ## 发布
 
-- **最新版本**: `v0.8.1` (2026-05-10)
-- **最近提交**: 2026-08-27
+- **最新版本**: `v0.8.2` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 421 · **Fork**: 11 · **开放 issue**: 49 · **贡献者**: 2
+- **Star**: 423 · **Fork**: 11 · **开放 issue**: 49 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 65 · **开放 PR**: 6 · **已关闭 issue**: 48 · **开放 issue**: 1 · **提交数**: 157
+- **发布数**: 13 · **已合并 PR**: 71 · **开放 PR**: 0 · **已关闭 issue**: 49 · **开放 issue**: 0 · **提交数**: 164
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 1 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last180d | 2026-03-18 | 6 | 37 | 6 | 23 | 1 | 66 |
-| 360d | 2025-09-19 | 12 | 65 | 6 | 48 | 1 | 148 |
-| last720d | 2024-09-24 | 12 | 65 | 6 | 48 | 1 | 157 |
+| 30d | 2026-08-16 | 1 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-17 | 1 | 5 | 0 | 0 | 0 | 8 |
+| 90d | 2026-06-17 | 1 | 6 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-19 | 7 | 43 | 0 | 24 | 0 | 73 |
+| 360d | 2025-09-20 | 13 | 71 | 0 | 49 | 0 | 155 |
+| last720d | 2024-09-25 | 13 | 71 | 0 | 49 | 0 | 164 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [aptui_0.8.1_checksums.txt](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_checksums.txt) | 382 B | `other` |
-| [aptui_0.8.1_linux_amd64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.deb) | 3.4 MiB | `native/linux/x64` |
-| [aptui_0.8.1_linux_amd64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
-| [aptui_0.8.1_linux_arm64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_arm64.deb) | 3.1 MiB | `native/linux/arm64` |
-| [aptui_0.8.1_linux_arm64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [aptui_0.8.2_checksums.txt](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_checksums.txt) | 382 B | `other` |
+| [aptui_0.8.2_linux_amd64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.deb) | 3.4 MiB | `native/linux/x64` |
+| [aptui_0.8.2_linux_amd64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [aptui_0.8.2_linux_arm64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_arm64.deb) | 3.1 MiB | `native/linux/arm64` |
+| [aptui_0.8.2_linux_arm64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ aptui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:23:53Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:25:17Z._

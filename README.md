@@ -14,13 +14,13 @@ x install aptui
 
 ## Code insight
 
-Total: **17,889** lines of code across **69** files in the top 5 languages.
+Total: **18,596** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,884 | 490 | 1,886 | 61 |
+| Go | 18,591 | 497 | 1,943 | 63 |
 | Sh | 5 | 1 | 1 | 1 |
-| Markdown | 0 | 727 | 288 | 7 |
+| Markdown | 0 | 749 | 290 | 7 |
 
 ## Source
 
@@ -29,38 +29,38 @@ Total: **17,889** lines of code across **69** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.1` (2026-05-10)
-- **Last commit**: 2026-08-27
+- **Latest**: `v0.8.2` (2026-09-14)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 421 · **Forks**: 11 · **Open issues**: 49 · **Contributors**: 2
+- **Stars**: 423 · **Forks**: 11 · **Open issues**: 49 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 65 · **Open PRs**: 6 · **Closed issues**: 48 · **Open issues**: 1 · **Commits**: 157
+- **Releases**: 13 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 0 · **Commits**: 164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 1 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last180d | 2026-03-18 | 6 | 37 | 6 | 23 | 1 | 66 |
-| 360d | 2025-09-19 | 12 | 65 | 6 | 48 | 1 | 148 |
-| last720d | 2024-09-24 | 12 | 65 | 6 | 48 | 1 | 157 |
+| 30d | 2026-08-16 | 1 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-17 | 1 | 5 | 0 | 0 | 0 | 8 |
+| 90d | 2026-06-17 | 1 | 6 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-19 | 7 | 43 | 0 | 24 | 0 | 73 |
+| 360d | 2025-09-20 | 13 | 71 | 0 | 49 | 0 | 155 |
+| last720d | 2024-09-25 | 13 | 71 | 0 | 49 | 0 | 164 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [aptui_0.8.1_checksums.txt](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_checksums.txt) | 382 B | `other` |
-| [aptui_0.8.1_linux_amd64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.deb) | 3.4 MiB | `native/linux/x64` |
-| [aptui_0.8.1_linux_amd64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
-| [aptui_0.8.1_linux_arm64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_arm64.deb) | 3.1 MiB | `native/linux/arm64` |
-| [aptui_0.8.1_linux_arm64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.1/aptui_0.8.1_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [aptui_0.8.2_checksums.txt](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_checksums.txt) | 382 B | `other` |
+| [aptui_0.8.2_linux_amd64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.deb) | 3.4 MiB | `native/linux/x64` |
+| [aptui_0.8.2_linux_amd64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [aptui_0.8.2_linux_arm64.deb](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_arm64.deb) | 3.1 MiB | `native/linux/arm64` |
+| [aptui_0.8.2_linux_arm64.tar.gz](https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for aptui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:23:53Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:25:17Z._
