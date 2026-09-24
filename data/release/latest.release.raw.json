@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3601500,
       "digest": "sha256:5ca0bc756ca438f9b20414af37758d1af1f08015bc76c9479afb540a090d6411",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-09-14T22:28:05Z",
       "updated_at": "2026-09-14T22:28:05Z",
       "browser_download_url": "https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3604931,
       "digest": "sha256:5d24e954200e71eec645bc4878fd84064c430e74b03ba7f8bb501fbbd2581c50",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-09-14T22:28:05Z",
       "updated_at": "2026-09-14T22:28:05Z",
       "browser_download_url": "https://github.com/mexirica/aptui/releases/download/v0.8.2/aptui_0.8.2_linux_amd64.tar.gz"
