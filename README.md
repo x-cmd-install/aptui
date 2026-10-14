@@ -39,18 +39,18 @@ Total: **18,761** lines of code across **71** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 73 · **Open PRs**: 0 · **Closed issues**: 50 · **Open issues**: 0 · **Commits**: 166
+- **Releases**: 13 · **Merged PRs**: 73 · **Open PRs**: 2 · **Closed issues**: 50 · **Open issues**: 0 · **Commits**: 166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 4 | 0 | 1 | 0 | 2 |
-| last60d | 2026-08-14 | 1 | 7 | 0 | 1 | 0 | 10 |
-| 90d | 2026-07-15 | 1 | 7 | 0 | 1 | 0 | 10 |
-| last180d | 2026-04-16 | 3 | 21 | 0 | 9 | 0 | 32 |
-| 360d | 2025-10-18 | 13 | 73 | 0 | 50 | 0 | 157 |
-| last720d | 2024-10-23 | 13 | 73 | 0 | 50 | 0 | 166 |
+| 30d | 2026-09-14 | 1 | 2 | 2 | 1 | 0 | 2 |
+| last60d | 2026-08-15 | 1 | 7 | 2 | 1 | 0 | 10 |
+| 90d | 2026-07-16 | 1 | 7 | 2 | 1 | 0 | 10 |
+| last180d | 2026-04-17 | 3 | 21 | 2 | 9 | 0 | 32 |
+| 360d | 2025-10-19 | 13 | 73 | 2 | 50 | 0 | 157 |
+| last720d | 2024-10-24 | 13 | 73 | 2 | 50 | 0 | 166 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for aptui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:14:01Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:11:29Z._
