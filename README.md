@@ -30,27 +30,27 @@ Total: **18,771** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.2` (2026-09-14)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-27
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 434 · **Forks**: 11 · **Open issues**: 50 · **Contributors**: 2
+- **Stars**: 435 · **Forks**: 11 · **Open issues**: 50 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 73 · **Open PRs**: 2 · **Closed issues**: 50 · **Open issues**: 0 · **Commits**: 168
+- **Releases**: 13 · **Merged PRs**: 75 · **Open PRs**: 0 · **Closed issues**: 50 · **Open issues**: 0 · **Commits**: 170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 2 | 2 | 0 | 0 | 2 |
-| last60d | 2026-08-28 | 1 | 5 | 2 | 1 | 0 | 11 |
-| 90d | 2026-07-29 | 1 | 7 | 2 | 1 | 0 | 12 |
-| last180d | 2026-04-30 | 3 | 20 | 2 | 8 | 0 | 24 |
-| 360d | 2025-11-01 | 13 | 73 | 2 | 50 | 0 | 159 |
-| last720d | 2024-11-06 | 13 | 73 | 2 | 50 | 0 | 168 |
+| 30d | 2026-09-28 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-29 | 1 | 7 | 0 | 1 | 0 | 13 |
+| 90d | 2026-07-30 | 1 | 9 | 0 | 1 | 0 | 14 |
+| last180d | 2026-05-01 | 3 | 22 | 0 | 8 | 0 | 26 |
+| 360d | 2025-11-02 | 13 | 75 | 0 | 50 | 0 | 161 |
+| last720d | 2024-11-07 | 13 | 75 | 0 | 50 | 0 | 170 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for aptui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:24:13Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:56:42Z._
