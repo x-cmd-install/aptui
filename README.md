@@ -45,12 +45,12 @@ Total: **19,174** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 2 | 1 | 0 | 5 |
-| last60d | 2026-09-22 | 0 | 7 | 2 | 2 | 0 | 9 |
-| 90d | 2026-08-23 | 1 | 10 | 2 | 2 | 0 | 17 |
-| last180d | 2026-05-25 | 1 | 15 | 2 | 3 | 0 | 18 |
-| 360d | 2025-11-26 | 13 | 78 | 2 | 51 | 0 | 164 |
-| last720d | 2024-12-01 | 13 | 78 | 2 | 51 | 0 | 173 |
+| 30d | 2026-10-23 | 0 | 3 | 2 | 1 | 0 | 3 |
+| last60d | 2026-09-23 | 0 | 7 | 2 | 2 | 0 | 9 |
+| 90d | 2026-08-24 | 1 | 10 | 2 | 2 | 0 | 16 |
+| last180d | 2026-05-26 | 1 | 15 | 2 | 3 | 0 | 18 |
+| 360d | 2025-11-27 | 13 | 78 | 2 | 51 | 0 | 164 |
+| last720d | 2024-12-02 | 13 | 78 | 2 | 51 | 0 | 173 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for aptui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:30:32Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:28:51Z._
