@@ -14,11 +14,11 @@ x install aptui
 
 ## Code insight
 
-Total: **19,174** lines of code across **72** files in the top 5 languages.
+Total: **19,318** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,159 | 502 | 1,993 | 63 |
+| Go | 19,303 | 502 | 2,005 | 63 |
 | Sh | 15 | 2 | 4 | 2 |
 | Markdown | 0 | 753 | 292 | 7 |
 
@@ -30,7 +30,7 @@ Total: **19,174** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.2` (2026-09-14)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **19,174** lines of code across **72** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 78 · **Open PRs**: 6 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 173
+- **Releases**: 13 · **Merged PRs**: 82 · **Open PRs**: 3 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 3 | 6 | 1 | 0 | 3 |
-| last60d | 2026-09-25 | 0 | 7 | 6 | 2 | 0 | 9 |
-| 90d | 2026-08-26 | 1 | 10 | 6 | 2 | 0 | 16 |
-| last180d | 2026-05-28 | 1 | 15 | 6 | 3 | 0 | 18 |
-| 360d | 2025-11-29 | 13 | 78 | 6 | 51 | 0 | 164 |
-| last720d | 2024-12-04 | 13 | 78 | 6 | 51 | 0 | 173 |
+| 30d | 2026-10-26 | 0 | 7 | 3 | 1 | 0 | 7 |
+| last60d | 2026-09-26 | 0 | 11 | 3 | 1 | 0 | 13 |
+| 90d | 2026-08-27 | 1 | 14 | 3 | 2 | 0 | 20 |
+| last180d | 2026-05-29 | 1 | 19 | 3 | 3 | 0 | 22 |
+| 360d | 2025-11-30 | 13 | 82 | 3 | 51 | 0 | 168 |
+| last720d | 2024-12-05 | 13 | 82 | 3 | 51 | 0 | 177 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for aptui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:05:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:54:17Z._
